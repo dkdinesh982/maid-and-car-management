@@ -8,7 +8,7 @@ django-appconf==1.0.3
 django-cors-headers==2.5.2
 django-filter==2.1.0
 django-oauth-toolkit==1.2.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 geographiclib==1.49
 geopy==1.19.0
 idna==2.8
